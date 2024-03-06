@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmineHim
 - 👀 I’m interested in Data and IA
-- 🌱 I’m currently learning data scientis liense
+- 🌱 I’m currently learning data scientis license
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me : amine.himiche.pro@gmail.com
 - 😄 Pronouns: AmineHim
